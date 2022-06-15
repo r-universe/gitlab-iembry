@@ -1,0 +1,34 @@
+[
+  {
+    "package": "ie2misc",
+    "oncran": true
+  },
+  {
+    "package": "ie2miscdata",
+    "oncran": true
+  },
+  {
+    "package": "iemisc",
+    "oncran": true
+  },
+  {
+    "package": "iemiscdata",
+    "oncran": true
+  },
+  {
+    "package": "iemisctext",
+    "oncran": true
+  },
+  {
+    "package": "install.load",
+    "oncran": true
+  },
+  {
+    "package": "jab.adverse.reactions",
+    "oncran": true
+  },
+  {
+    "package": "USA.state.boundaries",
+    "oncran": true
+  }
+]
